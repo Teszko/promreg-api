@@ -1,5 +1,7 @@
 venv/
+releases/
 test.py
+_README
 __pycache__/
 .idea
 dist

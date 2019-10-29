@@ -2,6 +2,10 @@
 
 a Python client to easily query, register and delete targets with Prometheus Registration.
 
+## Installation
+
+pip install promregapi
+
 ## Usage
 
 #### Initialization
