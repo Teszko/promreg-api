@@ -1,5 +1,6 @@
-""" Prometheus Registration Python Client
-    Check https://intern.gitlab.tu-berlin.de/hpc/promreg-api for more information.
+""" 
+    Prometheus Registration Python Client
+    https://github.com/Teszko/promreg-api/blob/master/README.md
 """
 
 import requests
