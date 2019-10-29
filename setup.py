@@ -13,6 +13,7 @@ setup(
     author_email="iwaniuk@tu-berlin.de",
     url='https://github.com/Teszko/promreg-api',
     license='https://raw.githubusercontent.com/Teszko/promreg-api/master/LICENSE',
+    download_url='https://github.com/Teszko/promreg-api/releases/download/0.1/promreg-api-0.1.tar.gz',
     package_data={'': ['LICENSE', 'README.md']},
     packages=find_packages(),
     include_package_data=True,
