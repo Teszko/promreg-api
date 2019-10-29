@@ -1,0 +1,6 @@
+venv/
+test.py
+__pycache__/
+.idea
+dist
+promregapi.egg-info
